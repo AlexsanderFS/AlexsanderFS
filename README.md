@@ -1,6 +1,6 @@
 ### Olá! Sou o Alexsander Figueiredo 👋
 
-* 🔭 Power Platform Developer @ INSI
+* 🔭 Power Platform Developer - INSI
 * ⚡ Building solutions with Power Apps, Power Automate, Power Pages & Dataverse
 * 🔌 Working with APIs, integrations, automation and Microsoft technologies
 * 🌱 Currently learning Java & Python and diving deeper into Power Fx
