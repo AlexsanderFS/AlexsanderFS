@@ -1,9 +1,11 @@
 ### Olá! Sou o Alexsander Figueiredo 👋
 
-- 🔭 Hoje trabalhando com Power Platarform na RBA Digital na área de Desenvolvimento e testes
-- 🌱 Estudando atualmente Java, Power FX e Python
-- 😀 Cursando Sistemas de Informação no IFNMG - Campus Januária
-- 😄 Pronouns: Ele/Dele
+* 🔭 Power Platform Developer @ INSI
+* ⚡ Building solutions with Power Apps, Power Automate, Power Pages & Dataverse
+* 🔌 Working with APIs, integrations, automation and Microsoft technologies
+* 🌱 Currently learning Java & Python and diving deeper into Power Fx
+* 🎓 B.Sc. in Information Systems — IFNMG
+* 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexsanderFS&theme=github_dark"/>
