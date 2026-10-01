@@ -2,11 +2,16 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
+# Evita duas execuções publicando na branch output ao mesmo tempo.
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
 
 jobs:
   generate:
