@@ -21,6 +21,10 @@
   <img align="center" alt="Alex-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Alex-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Alex-DJANGO" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png">
+  <img align="center" alt="Power Apps" title="Power Apps" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/powerplatform/master/assets/images/PowerApps_scalable.svg">
+  <img align="center" alt="Power Automate" title="Power Automate" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/powerplatform/master/assets/images/PowerAutomate_scalable.svg">
+  <img align="center" alt="Power Pages" title="Power Pages" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/powerplatform/master/assets/images/PowerPages_scalable.svg">
+  <img align="center" alt="Dataverse" title="Dataverse" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Dataverse-Colored.svg">
 </div>
   
   ##
