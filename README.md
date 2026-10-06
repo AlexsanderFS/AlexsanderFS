@@ -5,7 +5,7 @@
 * 🔌 Working with APIs, integrations, automation and Microsoft technologies
 * 🌱 Currently learning Java & Python and diving deeper into Power Fx
 * 🎓 B.Sc. in Information Systems — IFNMG
-* 😄 Pronouns: Ele/Dele
+* 😄 Pronouns: He/Him
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexsanderFS&theme=github_dark"/>
