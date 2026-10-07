@@ -18,12 +18,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexsanderFS&amp;theme=github_dark&amp;animation=fade&amp;duration=1">
-    <img width="345" alt="Estatísticas de estrelas, commits, pull requests, issues e contribuições de AlexsanderFS" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexsanderFS&amp;theme=github&amp;animation=fade&amp;duration=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=AlexsanderFS&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;contribs_include_own_repos=true&amp;card_width=345&amp;line_height=20&amp;locale=pt-br&amp;custom_title=Atividade%20no%20GitHub&amp;theme=dark_github&amp;border_radius=8&amp;disable_animations=true">
+    <img width="345" alt="Atividade no GitHub: estrelas, commits, pull requests, issues e repositórios com contribuições de AlexsanderFS" src="https://github-stats-extended.vercel.app/api?username=AlexsanderFS&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;contribs_include_own_repos=true&amp;card_width=345&amp;line_height=20&amp;locale=pt-br&amp;custom_title=Atividade%20no%20GitHub&amp;theme=light_github&amp;border_radius=8&amp;disable_animations=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexsanderFS&amp;theme=github_dark&amp;animation=fade&amp;duration=1">
-    <img width="345" alt="Linguagens mais utilizadas nos repositórios de AlexsanderFS" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexsanderFS&amp;theme=github&amp;animation=fade&amp;duration=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=AlexsanderFS&amp;layout=compact&amp;langs_count=6&amp;card_width=345&amp;locale=pt-br&amp;custom_title=Linguagens%20mais%20usadas&amp;theme=dark_github&amp;border_radius=8&amp;disable_animations=true">
+    <img width="345" alt="Linguagens mais usadas, com barras e porcentagens calculadas pelo volume de código nos repositórios públicos de AlexsanderFS" src="https://github-stats-extended.vercel.app/api/top-langs?username=AlexsanderFS&amp;layout=compact&amp;langs_count=6&amp;card_width=345&amp;locale=pt-br&amp;custom_title=Linguagens%20mais%20usadas&amp;theme=light_github&amp;border_radius=8&amp;disable_animations=true">
   </picture>
 </p>
 
